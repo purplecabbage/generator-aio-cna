@@ -1,5 +1,5 @@
-# generator-aio-cna [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> this is jy&#39;s aio
+# generator-aio-cna [![NPM version][npm-image]][npm-url] 
+
 
 ## Installation
 
